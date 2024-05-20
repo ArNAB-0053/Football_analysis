@@ -8,3 +8,4 @@ opencv-python=4.9.0
 numpy
 sys
 pickle
+scikit-learn==1.4.2

@@ -5,3 +5,5 @@ runs
 .ipynb_checkpoints
 __pycache__
 *.pkl
+*.png
+*.jpg
