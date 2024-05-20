@@ -1,6 +1,6 @@
 *.pt
-.mp4
-.avi
+*.mp4
+*.avi
 runs
 .ipynb_checkpoints
 __pycache__
