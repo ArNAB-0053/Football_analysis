@@ -1,0 +1,11 @@
+# Purpose of This Directory:
+
+- This directory is intended to store trained machine learning model files in pickle (.pkl) format.
+
+## Note:
+
+- This file is just for instruction.
+- The `.gitignore` file is configured to ignore all `.pkl` files.
+- No pickle files will be uploaded to GitHub.
+- This file ensures the directory will not be empty and will be included in the repository.
+- You can delete this file once the directory contains actual data files.
